@@ -148,7 +148,7 @@ The model is built using **two final tables** derived from staging queries:
 ## 📂 Files & Visual Assets
 
 - [`README.md`](./README.md) – Project documentation  
-- [`US_Global_Econ_Indicators.pbix`](./US_Global_Econ_Indicators.pbix) – Power BI report file  
+- [`Power Bi project 2.pbix`](./Power%20Bi%20project%202.pbix) – Power BI report file   
 - 📸 Screenshots:  
   - [Main Page Overview](./main_page.png)  
   - [Drill-Through Page](./drillthrough_page.png)  
